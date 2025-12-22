@@ -1,0 +1,3 @@
+g++ -o calc_pi.exe calc_pi.cpp -fopenmp -O3
+
+./calc_pi

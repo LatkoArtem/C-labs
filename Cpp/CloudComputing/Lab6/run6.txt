@@ -1,0 +1,3 @@
+g++ fire_sim.cpp -o fire_sim.exe -fopenmp -lgdi32 -DUNICODE -D_UNICODE
+
+./fire_sim

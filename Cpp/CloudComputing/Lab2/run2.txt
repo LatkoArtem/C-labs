@@ -1,0 +1,3 @@
+g++ -o LAB2 LAB2.cpp -fopenmp
+
+./LAB2

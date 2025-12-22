@@ -1,0 +1,3 @@
+g++ LAB1.cpp -o LAB1.exe -lgdi32 -lcomctl32 -std=c++17 -municode -mwindows
+
+.\LAB1.exe

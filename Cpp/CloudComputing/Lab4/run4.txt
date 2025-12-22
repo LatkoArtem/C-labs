@@ -1,0 +1,3 @@
+g++ -o gauss_solver.exe lab4.cpp -fopenmp -O3
+
+./gauss_solver
